@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de ADS<br>📚 Atualmente, estou focado estudando Python, Git e SQL<br>💼 Procurando estágio XD</p>
+<p align="left">🎓📚 Estudante de ADS<br>💼 Procurando estágio XD</p>
 
 ###
 
